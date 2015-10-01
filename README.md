@@ -72,3 +72,6 @@ It's recomended to use the string constraints [Email](http://symfony.com/doc/cur
  * )
  */
 ```
+
+## Authors
+CATIMEL François & [PLATTEAU Jonathan](http://jonathan.pl)
